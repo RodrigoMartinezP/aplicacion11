@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
  <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   id     = "com.phonegap.example9"
+   id     = "com.phonegap.example11"
    versionCode = "10"
    version ="1.0.0">
    
  <!--versioncode is optional and Android only -->
  
- <name>Acelerometro y Geolocalización</name>
+ <name>Base de Datos</name>
  
  <description>
-    Aplicacion que te muetra la geolocalizacion del dispositivo,de acuerdo a sus coordenadas y el acelerometro
+    Aplicacion que te muetra las tablas y los clientes agregados
  </description>
  
  <preference name="phonegap-version" value="3.1.0"/>
   
  <author href="https://build.phonegap.com" email ="support@phonegap.com">
- Misael Rodriguez Mendez</author>
+ Rodrigo Martinez Peña</author>
  
  <gap:plugin name ="org.apache.cordova.device" version="0.2.12"/>
  <gap:plugin name="org.apache.cordova.vibration" version="0.3.0"/>
